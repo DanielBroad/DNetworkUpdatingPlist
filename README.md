@@ -1,6 +1,6 @@
 # DRNetworkUpdatingPlist
 
-[![CI Status](http://img.shields.io/travis/Dorada/DRNetworkUpdatingPlist.svg?style=flat)](https://travis-ci.org/Dorada/DRNetworkUpdatingPlist)
+[![CI Status](http://img.shields.io/travis/dorada/DRNetworkUpdatingPlist.svg?style=flat)](https://travis-ci.org/dorada/DRNetworkUpdatingPlist)
 [![Version](https://img.shields.io/cocoapods/v/DRNetworkUpdatingPlist.svg?style=flat)](http://cocoapods.org/pods/DRNetworkUpdatingPlist)
 [![License](https://img.shields.io/cocoapods/l/DRNetworkUpdatingPlist.svg?style=flat)](http://cocoapods.org/pods/DRNetworkUpdatingPlist)
 [![Platform](https://img.shields.io/cocoapods/p/DRNetworkUpdatingPlist.svg?style=flat)](http://cocoapods.org/pods/DRNetworkUpdatingPlist)
