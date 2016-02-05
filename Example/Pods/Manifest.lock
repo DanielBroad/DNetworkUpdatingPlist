@@ -1,0 +1,14 @@
+PODS:
+  - DRNetworkUpdatingPlist (0.1.0)
+
+DEPENDENCIES:
+  - DRNetworkUpdatingPlist (from `../`)
+
+EXTERNAL SOURCES:
+  DRNetworkUpdatingPlist:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DRNetworkUpdatingPlist: 93421c82c0a54eaad776d05691126e2fd66bfb1d
+
+COCOAPODS: 0.39.0

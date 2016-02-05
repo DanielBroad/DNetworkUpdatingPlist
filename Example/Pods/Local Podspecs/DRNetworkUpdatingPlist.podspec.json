@@ -1,0 +1,25 @@
+{
+  "name": "DRNetworkUpdatingPlist",
+  "version": "0.1.0",
+  "summary": "A plist stored on a remote server",
+  "description": "Interfaces to a plist stored on a remote server, cached offline locally",
+  "homepage": "https://github.com/dorada/DRNetworkUpdatingPlist",
+  "license": "MIT",
+  "authors": {
+    "Daniel Broad": "daniel@dorada.org"
+  },
+  "source": {
+    "git": "https://github.com/dorada/DRNetworkUpdatingPlist.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "DRNetworkUpdatingPlist": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

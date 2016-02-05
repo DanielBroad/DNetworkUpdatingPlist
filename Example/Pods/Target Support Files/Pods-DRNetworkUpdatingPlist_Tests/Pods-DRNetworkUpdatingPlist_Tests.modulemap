@@ -1,0 +1,6 @@
+framework module Pods_DRNetworkUpdatingPlist_Tests {
+  umbrella header "Pods-DRNetworkUpdatingPlist_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

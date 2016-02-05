@@ -1,0 +1,6 @@
+framework module DRNetworkUpdatingPlist {
+  umbrella header "DRNetworkUpdatingPlist-umbrella.h"
+
+  export *
+  module * { export * }
+}

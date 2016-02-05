@@ -6,6 +6,8 @@
 //  Copyright (c) 2016 Daniel Broad. All rights reserved.
 //
 
+#import "DRNetworkUpdatingPlist.h"
+
 @import XCTest;
 
 @interface Tests : XCTestCase
@@ -26,9 +28,11 @@
     [super tearDown];
 }
 
-- (void)testExample
+- (void)test
 {
-    XCTFail(@"No implementation for \"%s\"", __PRETTY_FUNCTION__);
+    DRNetworkUpdatingPlist *myPlist = [[DRNetworkUpdatingPlist alloc] initWithRootURL:[NSURL URLWithString:@""] name:@"test.plist"];
+    
+    XCTAssertEqual([myPlist integerForKey:@"test"], 123456,@"Integer retrieval test");
 }
 
 @end
